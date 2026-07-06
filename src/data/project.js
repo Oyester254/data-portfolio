@@ -7,7 +7,8 @@ export const projects = [
       "Analysed healthcare dataset to identify disease trends and support resource alllocation decisions",
     tools: ["Python", "Power BI"],
     category: "Health",
-    github: "link to github project",
+    github:
+      "https://github.com/Oyester254/healthcare-analytics-dashboard/blob/main/python/healthcare_analysis.ipynb",
     image:
       "https://i.pinimg.com/1200x/11/93/63/119363d7661db835b19f3205aa1d946f.jpg",
   },

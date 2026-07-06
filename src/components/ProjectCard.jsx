@@ -29,7 +29,7 @@ const ProjectCard = ({ project }) => {
         </div>
         {/*Button */}
         <a
-          href="project.github"
+          href={project.github}
           className="inline-block mt-4 text-emerald-400 text-xs sm:text-sm"
         >
           View on GitHub

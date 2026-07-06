@@ -27,7 +27,7 @@ const Hero = () => {
           View Projects
         </a>
         <a
-          href="#https://github.com"
+          href="https://github.com/Oyester254/healthcare-analytics-dashboard/blob/main/python/healthcare_analysis.ipynb"
           className="border border-emerald-500 px-4 py-2 rounded text-sm sm:text-base"
         >
           GitHub
