@@ -13,12 +13,12 @@ export const projects = [
       "https://i.pinimg.com/1200x/11/93/63/119363d7661db835b19f3205aa1d946f.jpg",
   },
   {
-    title: "Bank Risk Analysis",
+    title: "Superstore Dataset Analysis",
     description:
-      "Identified high-risk loan customers using historical financial data",
-    tools: ["Python", "SQL"],
+      "End-to-end retail sales analysis using SQL, Excel, and Power BI to identify profitability drivers",
+    tools: ["SQL", "Excel,", "Power BI"],
     category: "Finance",
-    github: "link to github project",
+    github: "https://github.com/Oyester254/retail-sales-analysis",
     image:
       "https://i.pinimg.com/736x/b0/c4/9e/b0c49eee87626b13dc5da09e65eb58ef.jpg",
   },
@@ -28,7 +28,7 @@ export const projects = [
       "Evaluated school performance and key factors affecting student success",
     tools: ["Excel", "Power BI"],
     category: "Education",
-    github: "link to github project",
+    github: "lhttps://github.com/Oyester254/retail-sales-analysis",
     image:
       "https://i.pinimg.com/1200x/6f/b0/9f/6fb09fdb28d8a8c19e1a660b6cdf27f0.jpg",
   },
