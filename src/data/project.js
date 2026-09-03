@@ -33,7 +33,7 @@ export const projects = [
       "Cleaned, standardized, validated, and integrated real estate datasets using Python and Pandas",
     tools: ["Python", "Pandas", "NumPy"],
     category: "Data Analytics",
-    github: "https://github.com/Oyester254/data_science",
+    github: "notebooks/01_data_cleaning_and _preparation.ipynb",
     image:
       "https://i.pinimg.com/736x/5b/98/24/5b982438292fc8eb441fb4e697e1e3f2.jpg",
   },
@@ -44,7 +44,7 @@ export const projects = [
       "Explored property prices, size, location, and property types using statistical analysis and visualization",
     tools: ["Python", "Pandas", "Matplotlib", "Seaborn"],
     category: "Data Analytics",
-    github: "https://github.com/Oyester254/data_science",
+    github: "notebooks/02_exploratory_data_analysis.ipynb",
     image:
       "https://i.pinimg.com/736x/5b/98/24/5b982438292fc8eb441fb4e697e1e3f2.jpg",
   },
