@@ -46,6 +46,6 @@ export const projects = [
     category: "Data Analytics",
     github: "notebooks/02_exploratory_data_analysis.ipynb",
     image:
-      "https://i.pinimg.com/736x/5b/98/24/5b982438292fc8eb441fb4e697e1e3f2.jpg",
+      "https://i.pinimg.com/1200x/dc/fe/00/dcfe00ee34aa225cd55a7981c1936f74.jpg",
   },
 ];
