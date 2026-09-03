@@ -46,7 +46,7 @@ export const projects = [
     tools: ["Python", "Pandas", "Matplotlib", "Seaborn"],
     category: "Data Analytics",
     github:
-      "https://github.com/Oyester254/data_science/blob/7cf8ac52c77d2f943843e90c4a17e1dcd8bb6f55/notebooks/02_exploratory_data_analysis.ipynb",
+      "https://github.com/Oyester254/data_science/blob/dea74d0578de61f3f81eaf52c5ccfdfcf84167fd/notebooks/02_exploratory_data_analysis.ipynb",
     image:
       "https://i.pinimg.com/1200x/dc/fe/00/dcfe00ee34aa225cd55a7981c1936f74.jpg",
   },
