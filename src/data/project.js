@@ -1,8 +1,3 @@
-//stores all portfolio projects
-//easy to update without touching UI code or hand coding
-// Stores all portfolio projects
-// Easy to update without touching UI code
-
 export const projects = [
   {
     title: "HealthCare Analytics Dashboard",
@@ -13,7 +8,7 @@ export const projects = [
     github:
       "https://github.com/Oyester254/healthcare-analytics-dashboard/blob/main/python/healthcare_analysis.ipynb",
     image:
-      "https://i.pinimg.com/1200x/11/93/63/119363d7661db835b19f3205aa1d946f.jpg",
+      "https://i.pinimg.com/1200x/c7/ad/5e/c7ad5e6579682022322efe1c478c33a0.jpg",
   },
 
   {
@@ -24,30 +19,42 @@ export const projects = [
     category: "Finance",
     github: "https://github.com/Oyester254/retail-sales-analysis",
     image:
-      "https://i.pinimg.com/736x/b0/c4/9e/b0c49eee87626b13dc5da09e65eb58ef.jpg",
+      "https://i.pinimg.com/736x/5d/bf/b1/5dbfb138f301c763ba3f0b52942dae4c.jpg",
   },
 
   {
     title: "Mexico Real Estate Data Cleaning",
     description:
-      "Cleaned, standardized, validated, and integrated real estate datasets using Python and Pandas",
+      "Cleaned, standardized, validated, and integrated 1,736 real estate listings into a structured analytical dataset",
     tools: ["Python", "Pandas", "NumPy"],
     category: "Data Analytics",
     github:
       "https://github.com/Oyester254/data_science/blob/7cf8ac52c77d2f943843e90c4a17e1dcd8bb6f55/notebooks/01_data_cleaning_and%20_preparation.ipynb",
     image:
-      "https://i.pinimg.com/736x/5b/98/24/5b982438292fc8eb441fb4e697e1e3f2.jpg",
+      "https://i.pinimg.com/1200x/84/36/03/843603bcb07a149460b05b6a4d56c628.jpg",
   },
 
   {
     title: "Mexico Real Estate Exploratory Analysis",
     description:
-      "Explored property prices, size, location, and property types using statistical analysis and visualization",
+      "Explored property prices, size, location, and property types using statistical summaries and data visualization",
     tools: ["Python", "Pandas", "Matplotlib", "Seaborn"],
     category: "Data Analytics",
     github:
       "https://github.com/Oyester254/data_science/blob/dea74d0578de61f3f81eaf52c5ccfdfcf84167fd/notebooks/02_exploratory_data_analysis.ipynb",
     image:
-      "https://i.pinimg.com/1200x/dc/fe/00/dcfe00ee34aa225cd55a7981c1936f74.jpg",
+      "https://i.pinimg.com/736x/62/b9/27/62b927b28258bd41d60fe0d23f43f54c.jpg",
+  },
+
+  {
+    title: "Mexico Real Estate Correlation Analysis",
+    description:
+      "Quantified relationships between property size and price and examined how the association varies across property types and states",
+    tools: ["Python", "Pandas", "Matplotlib", "Seaborn"],
+    category: "Data Analytics",
+    github:
+      "https://github.com/Oyester254/data_science/blob/dea74d0578de61f3f81eaf52c5ccfdfcf84167fd/notebooks/03_correlation_analysis.ipynb",
+    image:
+      "https://i.pinimg.com/1200x/d9/30/a5/d930a58ad1b0b760de09fa7819d99770.jpg",
   },
 ];
